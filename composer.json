@@ -1,0 +1,13 @@
+{
+    "name": "blueg/composer-2",
+    "description": "Exercice Wcs",
+    "authors": [
+        {
+            "name": "Pignon-Mickael",
+            "email": "mickaelpignon17@gmail.com"
+        }
+    ],
+    "require": {
+        "ehime/hello-world": "^1.0"
+    }
+}
